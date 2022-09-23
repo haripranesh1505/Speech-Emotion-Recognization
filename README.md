@@ -1,5 +1,4 @@
 # Speech-Emotion-Recognization
-SPEECH AND EMOTION RECOGNIZATION
 Hari Pranesh M <br/>
 Bennett University Greater Noida, Uttar Pradesh, India
 1haripranesh.m@gmail.com
